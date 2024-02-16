@@ -1,0 +1,24 @@
+{
+  "originHash" : "ef7ec2a3fb8409125f46624c61e53fe72a765f62b1ac335717ef3ba16f69de62",
+  "pins" : [
+    {
+      "identity" : "customkeyboardkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/paescebu/CustomKeyboardKit",
+      "state" : {
+        "revision" : "44b0f20a256dfc944915dde59894647eb29f3af2",
+        "version" : "1.0.1"
+      }
+    },
+    {
+      "identity" : "swiftui-introspect",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/siteline/SwiftUI-Introspect.git",
+      "state" : {
+        "revision" : "9e1cc02a65b22e09a8251261cccbccce02731fc5",
+        "version" : "1.1.1"
+      }
+    }
+  ],
+  "version" : 3
+}
